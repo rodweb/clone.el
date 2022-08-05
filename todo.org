@@ -1,0 +1,11 @@
+* TODOs
+** DONE Add ~clone-protocol~ option
+** DONE Add ~clone-directory~ option
+** DONE Add ~clone-default-host~ option
+** DONE Implement ~clone-repo~ function
+** DONE Support clone by =user/repo=
+** DONE Support clone by https
+** DONE Support clone by ssh
+** DONE Support rewriting https url to ssh
+** DONE Support rewriting ssh url to https
+** DONE Add ~clone-hook~
